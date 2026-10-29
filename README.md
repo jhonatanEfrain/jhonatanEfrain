@@ -14,7 +14,7 @@
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="38" alt="Animación de programación" /> Sobre mí
 
-<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250" alt="Animación de una persona programando" />
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250" alt="Animación de una persona programando" />
 
 Soy estudiante del **décimo ciclo de Ingeniería de Sistemas en la Universidad Nacional de Cajamarca**. Me gusta transformar necesidades concretas en sistemas que simplifiquen el trabajo diario: desde organizar bienes y registrar asistencia hasta dar seguimiento a pedidos y ventas.
 
