@@ -27,35 +27,43 @@ Quiero que este perfil muestre mi progreso como desarrollador a través de proye
 ## Proyectos
 
 <details open>
-  <summary><strong> Inventario académico · Escuela de Ingeniería de Sistemas</strong></summary>
+  <summary><strong>📦 Inventario académico · Escuela de Ingeniería de Sistemas</strong></summary>
   <br />
+  <img align="right" src="./assets/inventario-academico.gif" width="250" alt="Animación del inventario académico: un bien se asigna a un docente" />
   <p>Desarrollé un sistema para registrar el mobiliario de la Escuela Académico Profesional de Ingeniería de Sistemas y asignar cada bien a un docente responsable.</p>
   <p><strong>Qué aporta:</strong> facilita identificar qué bienes tiene la escuela y quién está a cargo de cada uno.<br />
   <strong>Tecnologías:</strong> C#, HTML y MySQL.</p>
+  <br clear="right" />
 </details>
 
 <details open>
-  <summary><strong> Asistencia escolar con QR · Colegio</strong></summary>
+  <summary><strong>🎓 Asistencia escolar con QR · Colegio</strong></summary>
   <br />
+  <img align="right" src="./assets/asistencia-qr.gif" width="250" alt="Animación de asistencia escolar: escaneo QR, ingreso y aviso a la familia" />
   <p>Creé un sistema que genera códigos QR para registrar la asistencia y la hora exacta de ingreso de los estudiantes. También permite enviar avisos a las familias, publicar comunicados generales, individuales o por sección, y comunicar a padres con tutores.</p>
   <p><strong>Qué aporta:</strong> agiliza el registro de asistencia y reúne en un mismo lugar la información y comunicación del colegio con las familias.<br />
   <strong>Tecnologías:</strong> React, JavaScript, CSS y Node.js.</p>
+  <br clear="right" />
 </details>
 
 <details open>
-  <summary><strong> Gestión de pedidos · Restaurante</strong></summary>
+  <summary><strong>🍽️ Gestión de pedidos · Restaurante</strong></summary>
   <br />
+  <img align="right" src="./assets/pedidos-restaurante.gif" width="250" alt="Animación de restaurante: el pedido pasa por cocina hasta la entrega" />
   <p>Construí un sistema que acompaña cada pedido desde que el cliente lo realiza, pasando por su preparación en cocina, hasta la entrega.</p>
   <p><strong>Qué aporta:</strong> permite conocer en qué etapa está cada pedido y mantener un flujo de trabajo ordenado entre atención y cocina.<br />
   <strong>Tecnologías:</strong> PHP 8, MySQL, Bootstrap 5 y JavaScript.</p>
+  <br clear="right" />
 </details>
 
 <details open>
-  <summary><strong>Inventario y punto de venta · Joyería (en desarrollo)</strong></summary>
+  <summary><strong>💍 Inventario y punto de venta · Joyería (en desarrollo)</strong></summary>
   <br />
+  <img align="right" src="./assets/joyeria-pos.gif" width="250" alt="Animación de joyería: inventario, venta y caja" />
   <p>Estoy desarrollando un sistema para una joyería que integra inventario, punto de venta y módulo de caja.</p>
   <p><strong>Objetivo:</strong> reunir el control de productos, las ventas y la caja en una sola herramienta.</p>
   <p><strong>Tecnologías:</strong> PHP, MySQL, Bootstrap 5 y JavaScript.</p>
+  <br clear="right" />
 </details>
 
 ## Tecnologías y herramientas
