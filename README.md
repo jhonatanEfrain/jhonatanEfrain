@@ -12,7 +12,9 @@
 
 ---
 
-## Sobre mí
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="38" alt="Animación de programación" /> Sobre mí
+
+<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="250" alt="Animación de una persona programando" />
 
 Soy estudiante del **décimo ciclo de Ingeniería de Sistemas en la Universidad Nacional de Cajamarca**. Me gusta transformar necesidades concretas en sistemas que simplifiquen el trabajo diario: desde organizar bienes y registrar asistencia hasta dar seguimiento a pedidos y ventas.
 
@@ -95,6 +97,15 @@ Quiero que este perfil muestre mi progreso como desarrollador a través de proye
     <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
   </p>
 </div>
+
+## ⚙️ Estadísticas de GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonatanEfrain&amp;show_icons=true&amp;theme=algolia" alt="Estadísticas públicas de GitHub de Jhonatan" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jhonatanEfrain&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" alt="Lenguajes de los repositorios públicos de Jhonatan" />
+</p>
+
+<p align="center"><sub>Las tarjetas muestran actividad visible en GitHub; los proyectos privados pueden no aparecer.</sub></p>
 
 ## Contacto
 
