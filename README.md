@@ -14,43 +14,45 @@
 
 ## Sobre mí
 
-Soy estudiante del **décimo ciclo de Ingeniería de Sistemas en la Universidad Nacional de Cajamarca**. Me interesa crear soluciones que organicen procesos y faciliten el trabajo de las personas.
+Soy estudiante del **décimo ciclo de Ingeniería de Sistemas en la Universidad Nacional de Cajamarca**. Me gusta transformar necesidades concretas en sistemas que simplifiquen el trabajo diario: desde organizar bienes y registrar asistencia hasta dar seguimiento a pedidos y ventas.
 
-- Me interesan el **desarrollo web**, las **aplicaciones de escritorio** y la **integración entre aplicaciones web y móviles**.
-- He desarrollado por mi cuenta sistemas para educación, inventarios, restaurantes y ventas.
-- Actualmente amplío mis conocimientos en **React, Python y Node.js**.
-- Comparto mi trabajo para mostrar lo que he aprendido y construido durante mi camino como desarrollador.
+- **Lo que construyo:** aplicaciones web y de escritorio, con interés en integrar soluciones web y móviles.
+- **Cómo trabajo:** he desarrollado de forma independiente los proyectos que presento aquí, desde la idea hasta su funcionamiento.
+- **Lo que estoy aprendiendo:** React, Python y Node.js para ampliar las soluciones que puedo crear.
+
+Quiero que este perfil muestre mi progreso como desarrollador a través de proyectos reales y de lo que resolvió cada uno.
 
 ## Proyectos
 
 <details open>
   <summary><strong>📦 Inventario académico · Escuela de Ingeniería de Sistemas</strong></summary>
   <br />
-  <p>Registra el mobiliario de la escuela y asigna cada bien a un docente responsable.</p>
-  <p><strong>Valor:</strong> registro de bienes → asignación de responsables → consulta del inventario.<br />
+  <p>Desarrollé un sistema para registrar el mobiliario de la Escuela Académico Profesional de Ingeniería de Sistemas y asignar cada bien a un docente responsable.</p>
+  <p><strong>Qué aporta:</strong> facilita identificar qué bienes tiene la escuela y quién está a cargo de cada uno.<br />
   <strong>Tecnologías:</strong> C#, HTML y MySQL.</p>
 </details>
 
 <details open>
   <summary><strong>🎓 Asistencia escolar con QR · Colegio</strong></summary>
   <br />
-  <p>Genera códigos QR para registrar la asistencia y la hora exacta de ingreso. Incluye notificaciones a las familias, comunicados generales o por sección y mensajes entre padres y tutores.</p>
-  <p><strong>Valor:</strong> ingreso → aviso a padres → comunicación entre colegio y familias.<br />
+  <p>Creé un sistema que genera códigos QR para registrar la asistencia y la hora exacta de ingreso de los estudiantes. También permite enviar avisos a las familias, publicar comunicados generales, individuales o por sección, y comunicar a padres con tutores.</p>
+  <p><strong>Qué aporta:</strong> agiliza el registro de asistencia y reúne en un mismo lugar la información y comunicación del colegio con las familias.<br />
   <strong>Tecnologías:</strong> React, JavaScript, CSS y Node.js.</p>
 </details>
 
 <details open>
   <summary><strong>🍽️ Gestión de pedidos · Restaurante</strong></summary>
   <br />
-  <p>Permite seguir cada pedido desde que el cliente lo realiza, pasando por la preparación en cocina, hasta su entrega.</p>
-  <p><strong>Valor:</strong> trazabilidad de pedido → cocina → entrega.<br />
+  <p>Construí un sistema que acompaña cada pedido desde que el cliente lo realiza, pasando por su preparación en cocina, hasta la entrega.</p>
+  <p><strong>Qué aporta:</strong> permite conocer en qué etapa está cada pedido y mantener un flujo de trabajo ordenado entre atención y cocina.<br />
   <strong>Tecnologías:</strong> PHP 8, MySQL, Bootstrap 5 y JavaScript.</p>
 </details>
 
 <details open>
   <summary><strong>💍 Inventario y punto de venta · Joyería (en desarrollo)</strong></summary>
   <br />
-  <p>Estoy creando un sistema de inventario y punto de venta con módulo de caja para apoyar la gestión diaria de una joyería.</p>
+  <p>Estoy desarrollando un sistema para una joyería que integra inventario, punto de venta y módulo de caja.</p>
+  <p><strong>Objetivo:</strong> reunir el control de productos, las ventas y la caja en una sola herramienta.</p>
   <p><strong>Tecnologías:</strong> PHP, MySQL, Bootstrap 5 y JavaScript.</p>
 </details>
 
@@ -77,11 +79,21 @@ Soy estudiante del **décimo ciclo de Ingeniería de Sistemas en la Universidad 
 
   <h3>Herramientas de trabajo</h3>
   <img src="https://skillicons.dev/icons?i=docker,idea,visualstudio,vscode,eclipse&amp;perline=5" alt="Docker, IntelliJ IDEA, Visual Studio, Visual Studio Code y Eclipse" />
-  <p>Docker · IntelliJ IDEA y Community Edition · Visual Studio Community · Visual Studio Code · Eclipse</p>
+  <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&amp;logo=intellijidea&amp;logoColor=white" alt="IntelliJ IDEA y Community Edition" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=flat-square&amp;logo=visualstudio&amp;logoColor=white" alt="Visual Studio Community" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="Visual Studio Code" />
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&amp;logo=eclipseide&amp;logoColor=white" alt="Eclipse" />
+  </p>
 
   <h3>En aprendizaje</h3>
   <img src="https://skillicons.dev/icons?i=react,py,nodejs&amp;perline=3" alt="React, Python y Node.js" />
-  <p>React · Python · Node.js</p>
+  <p>
+    <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  </p>
 </div>
 
 ## Contacto
