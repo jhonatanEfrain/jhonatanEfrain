@@ -106,7 +106,7 @@ Quiero que este perfil muestre mi progreso como desarrollador a través de proye
   </p>
 </div>
 
-## ⚙️ Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhonatanEfrain&amp;show_icons=true&amp;theme=algolia" alt="Estadísticas públicas de GitHub de Jhonatan" />
